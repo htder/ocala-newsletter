@@ -15,4 +15,4 @@
 
 ## See it live!
 
-    Navigate [here[](https://htder.github.io/ocala-newsletter) to see it live!
+    Navigate here (https://htder.github.io/ocala-newsletter) to see it live!
